@@ -28,7 +28,7 @@ export const Route = createRootRouteWithContext<MyRouterContext>()({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'PPT builder - Generate presentations from text',
+        title: 'PPT.ai - Generate presentations from text',
       },
     ],
     links: [
@@ -67,3 +67,4 @@ function RootDocument({ children }: { children: React.ReactNode }) {
     </html>
   )
 }
+

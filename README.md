@@ -1,4 +1,4 @@
-# PPT.ai
+# PPT.ai Presentation builder
 
 **PPT.ai** is a full-stack web app that turns plain text or notes into slide decks. You describe what you want, pick style and tone, and the app uses AI to draft slides with titles, content, speaker notes, and image prompts. You can preview the deck in the browser, present in a fullscreen slideshow, and download a **`.pptx`** file.
 
@@ -194,3 +194,6 @@ pnpm check
 - [AI SDK](https://ai-sdk.dev/)
 
 ---
+
+
+<!-- 3:02 -->

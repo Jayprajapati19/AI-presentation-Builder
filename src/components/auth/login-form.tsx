@@ -22,6 +22,7 @@ export default function LoginForm({ redirectTo }: { redirectTo?: string }) {
           onSuccess: () => {
             toast.success('Logged in successfully!')
             const internalRedirect = toInternalPath(redirectTo)
+            // const internalRedirect = redirectTo ? toInternalPath(redirectTo) :null
             navigate({ to: (internalRedirect ?? '/') as any })
           },
           onError: ({ error }) => {

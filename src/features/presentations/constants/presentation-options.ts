@@ -3,6 +3,8 @@ export const SLIDE_STYLES = [
   { value: 'professional', label: 'Professional' },
   { value: 'creative', label: 'Creative' },
   { value: 'bold', label: 'Bold' },
+   
+  
 ] as const
 
 export const TONE_OPTIONS = [

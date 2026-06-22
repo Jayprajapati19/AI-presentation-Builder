@@ -135,7 +135,7 @@ function HomePage() {
             />
             <div className="flex justify-between text-xs text-muted-foreground px-1">
               <span>{form.content.length.toLocaleString()} characters</span>
-              <span>Markdown supported</span>
+              <span>Markdown supported..👍</span>
             </div>
           </div>
 

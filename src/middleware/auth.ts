@@ -8,6 +8,7 @@ import {
 import { createMiddleware } from '@tanstack/react-start'
 import { getRequestHeaders } from '@tanstack/react-start/server'
 
+
 // Kept here so it’s obvious what we consider public.
 // `isPublicPath` is the actual check used below.
 // (List lives in `src/lib/auth-paths.ts`)
