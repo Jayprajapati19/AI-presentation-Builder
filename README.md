@@ -1,6 +1,6 @@
 # PPT.ai Presentation builder
 
-**PPT.ai** is a full-stack web app that turns plain text or notes into slide decks. You describe what you want, pick style and tone, and the app uses AI to draft slides with titles, content, speaker notes, and image prompts. You can preview the deck in the browser, present in a fullscreen slideshow, and download a **`.pptx`** file.
+** PPT Generator ** is a full-stack web app that turns plain text or notes into slide decks. You describe what you want, pick style and tone, and the app uses AI to draft slides with titles, content, speaker notes, and image prompts. You can preview the deck in the browser, present in a fullscreen slideshow, and download a **`.pptx`** file.
 
 The product name and positioning match the app shell: *“PPT.ai — Generate presentations from text”* (see `src/routes/__root.tsx`).
 
