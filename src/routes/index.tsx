@@ -43,7 +43,7 @@ export const Route = createFileRoute('/')({
         to: '/login',
         search: { redirect: location.href },
       })
-    }
+    } 
 
     return { user: session.user }
   },

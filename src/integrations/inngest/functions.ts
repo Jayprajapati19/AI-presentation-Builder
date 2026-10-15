@@ -81,7 +81,7 @@ Guidelines:
 `
 
       const result = await generateText({
-        model: google('gemini-2.5-flash'),
+        model: google('gemini-3.5-flash-lite'),
         output: Output.object({ schema: slidesResponseSchema }),
         system: systemPrompt,
         prompt: presentation.prompt,
